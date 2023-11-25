@@ -11,3 +11,7 @@
     git merge branch name # to merge two branches
     way2) 
     Create a PR
+
+# Pull Command 
+to fetch and download content from a remote repo. 
+git pull origin main
